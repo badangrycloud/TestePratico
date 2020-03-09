@@ -1,0 +1,13 @@
+D:\Teste\TestePratico\TestePratico.Infrastructure\bin\Release\netcoreapp2.2\TestePratico.Infrastructure.deps.json
+D:\Teste\TestePratico\TestePratico.Infrastructure\bin\Release\netcoreapp2.2\TestePratico.Infrastructure.runtimeconfig.json
+D:\Teste\TestePratico\TestePratico.Infrastructure\bin\Release\netcoreapp2.2\TestePratico.Infrastructure.runtimeconfig.dev.json
+D:\Teste\TestePratico\TestePratico.Infrastructure\bin\Release\netcoreapp2.2\TestePratico.Infrastructure.dll
+D:\Teste\TestePratico\TestePratico.Infrastructure\bin\Release\netcoreapp2.2\TestePratico.Infrastructure.pdb
+D:\Teste\TestePratico\TestePratico.Infrastructure\bin\Release\netcoreapp2.2\TestePratico.Domain.dll
+D:\Teste\TestePratico\TestePratico.Infrastructure\bin\Release\netcoreapp2.2\TestePratico.Domain.pdb
+D:\Teste\TestePratico\TestePratico.Infrastructure\obj\Release\netcoreapp2.2\TestePratico.Infrastructure.csprojAssemblyReference.cache
+D:\Teste\TestePratico\TestePratico.Infrastructure\obj\Release\netcoreapp2.2\TestePratico.Infrastructure.AssemblyInfoInputs.cache
+D:\Teste\TestePratico\TestePratico.Infrastructure\obj\Release\netcoreapp2.2\TestePratico.Infrastructure.AssemblyInfo.cs
+D:\Teste\TestePratico\TestePratico.Infrastructure\obj\Release\netcoreapp2.2\TestePratico.Infrastructure.csproj.CopyComplete
+D:\Teste\TestePratico\TestePratico.Infrastructure\obj\Release\netcoreapp2.2\TestePratico.Infrastructure.dll
+D:\Teste\TestePratico\TestePratico.Infrastructure\obj\Release\netcoreapp2.2\TestePratico.Infrastructure.pdb

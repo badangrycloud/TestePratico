@@ -1,0 +1,7 @@
+D:\Teste\TestePratico\TestePratico.Domain\bin\Debug\netcoreapp3.1\TestePratico.Domain.deps.json
+D:\Teste\TestePratico\TestePratico.Domain\bin\Debug\netcoreapp3.1\TestePratico.Domain.dll
+D:\Teste\TestePratico\TestePratico.Domain\bin\Debug\netcoreapp3.1\TestePratico.Domain.pdb
+D:\Teste\TestePratico\TestePratico.Domain\obj\Debug\netcoreapp3.1\TestePratico.Domain.AssemblyInfoInputs.cache
+D:\Teste\TestePratico\TestePratico.Domain\obj\Debug\netcoreapp3.1\TestePratico.Domain.AssemblyInfo.cs
+D:\Teste\TestePratico\TestePratico.Domain\obj\Debug\netcoreapp3.1\TestePratico.Domain.dll
+D:\Teste\TestePratico\TestePratico.Domain\obj\Debug\netcoreapp3.1\TestePratico.Domain.pdb

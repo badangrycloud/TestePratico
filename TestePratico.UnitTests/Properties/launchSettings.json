@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestePratico.UnitTests": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
